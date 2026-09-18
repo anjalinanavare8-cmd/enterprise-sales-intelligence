@@ -1,0 +1,51 @@
+Transaction_ID,Transaction_Date,Customer_ID,Customer_Name,Product_ID,Product_Name,Category,Branch,Quantity,Unit_Price,Discount,Payment_Method,Order_Status
+T001,2026-01-05,C001,Rahul Sharma,P001,Laptop,Electronics,Pune,2,55000,0.10,UPI,Completed
+T002,2026-01-08,C002,Priya Patil,P002,Mobile Phone,Electronics,Mumbai,3,25000,0.05,Credit Card,Completed
+T003,2026-01-12,C003,Amit Joshi,P003,Office Chair,Furniture,Pune,5,7000,0.08,Cash,Completed
+T004,2026-01-18,C004,Sneha Kulkarni,P004,Monitor,Electronics,Nashik,2,18000,0.10,Debit Card,Completed
+T005,2026-01-25,C005,Rohan Deshmukh,P005,Desk,Furniture,Mumbai,2,12000,0.05,UPI,Completed
+T006,2026-02-03,C006,Neha Shah,P006,Printer,Electronics,Pune,2,22000,0.07,Credit Card,Completed
+T007,2026-02-07,C007,Akash More,P007,Keyboard,Accessories,Nashik,10,1500,0.05,Cash,Completed
+T008,2026-02-14,C008,Pooja Kale,P008,Headphones,Accessories,Mumbai,4,3000,0.10,UPI,Completed
+T009,2026-02-20,C009,Vikas Pawar,P009,Mouse,Accessories,Pune,8,1000,0.05,Debit Card,Completed
+T010,2026-02-28,C001,Rahul Sharma,P010,Table,Furniture,Nashik,3,7500,0.08,UPI,Completed
+T011,2026-03-04,C010,Kiran Jadhav,P001,Laptop,Electronics,Mumbai,1,55000,0.12,Credit Card,Completed
+T012,2026-03-09,C011,Meena Joshi,P002,Mobile Phone,Electronics,Pune,2,25000,0.05,UPI,Completed
+T013,2026-03-15,C012,Sachin More,P003,Office Chair,Furniture,Nashik,4,7000,0.10,Cash,Completed
+T014,2026-03-19,C013,Anita Patil,P004,Monitor,Electronics,Mumbai,3,18000,0.07,Debit Card,Completed
+T015,2026-03-26,C014,Omkar Shinde,P005,Desk,Furniture,Pune,3,12000,0.05,UPI,Completed
+T016,2026-04-02,C002,Priya Patil,P006,Printer,Electronics,Nashik,1,22000,0.08,Credit Card,Completed
+T017,2026-04-08,C015,Komal Pawar,P007,Keyboard,Accessories,Mumbai,12,1500,0.05,Cash,Completed
+T018,2026-04-13,C003,Amit Joshi,P008,Headphones,Accessories,Pune,5,3000,0.10,UPI,Completed
+T019,2026-04-21,C016,Raj Malhotra,P009,Mouse,Accessories,Nashik,10,1000,0.05,Debit Card,Completed
+T020,2026-04-29,C017,Swati Kale,P010,Table,Furniture,Mumbai,2,7500,0.10,UPI,Completed
+T021,2026-05-05,C018,Deepak Shah,P001,Laptop,Electronics,Pune,2,55000,0.08,Credit Card,Completed
+T022,2026-05-11,C004,Sneha Kulkarni,P002,Mobile Phone,Electronics,Nashik,2,25000,0.05,UPI,Completed
+T023,2026-05-17,C019,Varsha More,P003,Office Chair,Furniture,Mumbai,6,7000,0.10,Cash,Completed
+T024,2026-05-23,C020,Manish Pawar,P004,Monitor,Electronics,Pune,2,18000,0.05,Debit Card,Completed
+T025,2026-05-30,C005,Rohan Deshmukh,P005,Desk,Furniture,Nashik,4,12000,0.07,UPI,Completed
+T026,2026-06-04,C021,Shubham Patil,P006,Printer,Electronics,Mumbai,2,22000,0.10,Credit Card,Completed
+T027,2026-06-09,C006,Neha Shah,P007,Keyboard,Accessories,Pune,15,1500,0.05,Cash,Completed
+T028,2026-06-15,C022,Akshay Joshi,P008,Headphones,Accessories,Nashik,6,3000,0.08,UPI,Completed
+T029,2026-06-22,C007,Akash More,P009,Mouse,Accessories,Mumbai,12,1000,0.05,Debit Card,Completed
+T030,2026-06-28,C023,Riya Shinde,P010,Table,Furniture,Pune,3,7500,0.10,UPI,Cancelled
+T031,2026-07-03,C024,Harshad Kale,P001,Laptop,Electronics,Nashik,1,55000,0.15,Credit Card,Completed
+T032,2026-07-08,C008,Pooja Kale,P002,Mobile Phone,Electronics,Mumbai,3,25000,0.08,UPI,Completed
+T033,2026-07-14,C025,Nikhil More,P003,Office Chair,Furniture,Pune,5,7000,0.05,Cash,Completed
+T034,2026-07-19,C009,Vikas Pawar,P004,Monitor,Electronics,Nashik,3,18000,0.10,Debit Card,Completed
+T035,2026-07-26,C026,Shweta Patil,P005,Desk,Furniture,Mumbai,2,12000,0.05,UPI,Completed
+T036,2026-08-02,C027,Ajay Shah,P006,Printer,Electronics,Pune,3,22000,0.08,Credit Card,Completed
+T037,2026-08-07,C010,Kiran Jadhav,P007,Keyboard,Accessories,Nashik,20,1500,0.05,Cash,Completed
+T038,2026-08-13,C011,Meena Joshi,P008,Headphones,Accessories,Mumbai,8,3000,0.10,UPI,Completed
+T039,2026-08-18,C012,Sachin More,P009,Mouse,Accessories,Pune,15,1000,0.05,Debit Card,Completed
+T040,2026-08-25,C028,Anjali Deshmukh,P010,Table,Furniture,Nashik,4,7500,0.07,UPI,Completed
+T041,2026-09-01,C001,Rahul Sharma,P001,Laptop,Electronics,Mumbai,2,55000,0.10,Credit Card,Completed
+T042,2026-09-06,C013,Anita Patil,P002,Mobile Phone,Electronics,Pune,4,25000,0.05,UPI,Completed
+T043,2026-09-12,C014,Omkar Shinde,P003,Office Chair,Furniture,Nashik,7,7000,0.08,Cash,Completed
+T044,2026-09-18,C015,Komal Pawar,P004,Monitor,Electronics,Mumbai,2,18000,0.05,Debit Card,Completed
+T045,2026-09-23,C016,Raj Malhotra,P005,Desk,Furniture,Pune,3,12000,0.10,UPI,Completed
+T046,2026-09-27,C017,Swati Kale,P006,Printer,Electronics,Nashik,2,22000,0.07,Credit Card,Completed
+T047,2026-09-29,C018,Deepak Shah,P007,Keyboard,Accessories,Mumbai,18,1500,0.05,Cash,Completed
+T048,2026-09-30,C019,Varsha More,P008,Headphones,Accessories,Pune,7,3000,0.10,UPI,Completed
+T049,2026-09-30,C020,Manish Pawar,P009,Mouse,Accessories,Nashik,20,1000,0.05,Debit Card,Completed
+T050,2026-09-30,C021,Shubham Patil,P010,Table,Furniture,Mumbai,5,7500,0.08,UPI,Completed

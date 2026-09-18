@@ -1,0 +1,51 @@
+Transaction_ID,Transaction_Date,Customer_ID,Customer_Name,Product_ID,Product_Name,Category,Branch,Quantity,Unit_Price,Discount,Payment_Method,Order_Status,Gross_Sales,Discount_Amount,Net_Sales,Year,Month,Month_Name,Day,Weekday
+T001,2026-01-05,C001,Rahul Sharma,P001,Laptop,Electronics,Pune,2,55000,0.1,Upi,Completed,110000,110.0,109890.0,2026,1,January,5,Monday
+T002,2026-01-08,C002,Priya Patil,P002,Mobile Phone,Electronics,Mumbai,3,25000,0.05,Credit Card,Completed,75000,37.5,74962.5,2026,1,January,8,Thursday
+T003,2026-01-12,C003,Amit Joshi,P003,Office Chair,Furniture,Pune,5,7000,0.08,Cash,Completed,35000,28.0,34972.0,2026,1,January,12,Monday
+T004,2026-01-18,C004,Sneha Kulkarni,P004,Monitor,Electronics,Nashik,2,18000,0.1,Debit Card,Completed,36000,36.0,35964.0,2026,1,January,18,Sunday
+T005,2026-01-25,C005,Rohan Deshmukh,P005,Desk,Furniture,Mumbai,2,12000,0.05,Upi,Completed,24000,12.0,23988.0,2026,1,January,25,Sunday
+T006,2026-02-03,C006,Neha Shah,P006,Printer,Electronics,Pune,2,22000,0.07,Credit Card,Completed,44000,30.800000000000004,43969.2,2026,2,February,3,Tuesday
+T007,2026-02-07,C007,Akash More,P007,Keyboard,Accessories,Nashik,10,1500,0.05,Cash,Completed,15000,7.5,14992.5,2026,2,February,7,Saturday
+T008,2026-02-14,C008,Pooja Kale,P008,Headphones,Accessories,Mumbai,4,3000,0.1,Upi,Completed,12000,12.0,11988.0,2026,2,February,14,Saturday
+T009,2026-02-20,C009,Vikas Pawar,P009,Mouse,Accessories,Pune,8,1000,0.05,Debit Card,Completed,8000,4.0,7996.0,2026,2,February,20,Friday
+T010,2026-02-28,C001,Rahul Sharma,P010,Table,Furniture,Nashik,3,7500,0.08,Upi,Completed,22500,18.0,22482.0,2026,2,February,28,Saturday
+T011,2026-03-04,C010,Kiran Jadhav,P001,Laptop,Electronics,Mumbai,1,55000,0.12,Credit Card,Completed,55000,66.0,54934.0,2026,3,March,4,Wednesday
+T012,2026-03-09,C011,Meena Joshi,P002,Mobile Phone,Electronics,Pune,2,25000,0.05,Upi,Completed,50000,25.0,49975.0,2026,3,March,9,Monday
+T013,2026-03-15,C012,Sachin More,P003,Office Chair,Furniture,Nashik,4,7000,0.1,Cash,Completed,28000,28.0,27972.0,2026,3,March,15,Sunday
+T014,2026-03-19,C013,Anita Patil,P004,Monitor,Electronics,Mumbai,3,18000,0.07,Debit Card,Completed,54000,37.800000000000004,53962.2,2026,3,March,19,Thursday
+T015,2026-03-26,C014,Omkar Shinde,P005,Desk,Furniture,Pune,3,12000,0.05,Upi,Completed,36000,18.0,35982.0,2026,3,March,26,Thursday
+T016,2026-04-02,C002,Priya Patil,P006,Printer,Electronics,Nashik,1,22000,0.08,Credit Card,Completed,22000,17.6,21982.4,2026,4,April,2,Thursday
+T017,2026-04-08,C015,Komal Pawar,P007,Keyboard,Accessories,Mumbai,12,1500,0.05,Cash,Completed,18000,9.0,17991.0,2026,4,April,8,Wednesday
+T018,2026-04-13,C003,Amit Joshi,P008,Headphones,Accessories,Pune,5,3000,0.1,Upi,Completed,15000,15.0,14985.0,2026,4,April,13,Monday
+T019,2026-04-21,C016,Raj Malhotra,P009,Mouse,Accessories,Nashik,10,1000,0.05,Debit Card,Completed,10000,5.0,9995.0,2026,4,April,21,Tuesday
+T020,2026-04-29,C017,Swati Kale,P010,Table,Furniture,Mumbai,2,7500,0.1,Upi,Completed,15000,15.0,14985.0,2026,4,April,29,Wednesday
+T021,2026-05-05,C018,Deepak Shah,P001,Laptop,Electronics,Pune,2,55000,0.08,Credit Card,Completed,110000,88.0,109912.0,2026,5,May,5,Tuesday
+T022,2026-05-11,C004,Sneha Kulkarni,P002,Mobile Phone,Electronics,Nashik,2,25000,0.05,Upi,Completed,50000,25.0,49975.0,2026,5,May,11,Monday
+T023,2026-05-17,C019,Varsha More,P003,Office Chair,Furniture,Mumbai,6,7000,0.1,Cash,Completed,42000,42.0,41958.0,2026,5,May,17,Sunday
+T024,2026-05-23,C020,Manish Pawar,P004,Monitor,Electronics,Pune,2,18000,0.05,Debit Card,Completed,36000,18.0,35982.0,2026,5,May,23,Saturday
+T025,2026-05-30,C005,Rohan Deshmukh,P005,Desk,Furniture,Nashik,4,12000,0.07,Upi,Completed,48000,33.6,47966.4,2026,5,May,30,Saturday
+T026,2026-06-04,C021,Shubham Patil,P006,Printer,Electronics,Mumbai,2,22000,0.1,Credit Card,Completed,44000,44.0,43956.0,2026,6,June,4,Thursday
+T027,2026-06-09,C006,Neha Shah,P007,Keyboard,Accessories,Pune,15,1500,0.05,Cash,Completed,22500,11.25,22488.75,2026,6,June,9,Tuesday
+T028,2026-06-15,C022,Akshay Joshi,P008,Headphones,Accessories,Nashik,6,3000,0.08,Upi,Completed,18000,14.4,17985.6,2026,6,June,15,Monday
+T029,2026-06-22,C007,Akash More,P009,Mouse,Accessories,Mumbai,12,1000,0.05,Debit Card,Completed,12000,6.0,11994.0,2026,6,June,22,Monday
+T030,2026-06-28,C023,Riya Shinde,P010,Table,Furniture,Pune,3,7500,0.1,Upi,Cancelled,22500,22.5,22477.5,2026,6,June,28,Sunday
+T031,2026-07-03,C024,Harshad Kale,P001,Laptop,Electronics,Nashik,1,55000,0.15,Credit Card,Completed,55000,82.5,54917.5,2026,7,July,3,Friday
+T032,2026-07-08,C008,Pooja Kale,P002,Mobile Phone,Electronics,Mumbai,3,25000,0.08,Upi,Completed,75000,60.0,74940.0,2026,7,July,8,Wednesday
+T033,2026-07-14,C025,Nikhil More,P003,Office Chair,Furniture,Pune,5,7000,0.05,Cash,Completed,35000,17.5,34982.5,2026,7,July,14,Tuesday
+T034,2026-07-19,C009,Vikas Pawar,P004,Monitor,Electronics,Nashik,3,18000,0.1,Debit Card,Completed,54000,54.0,53946.0,2026,7,July,19,Sunday
+T035,2026-07-26,C026,Shweta Patil,P005,Desk,Furniture,Mumbai,2,12000,0.05,Upi,Completed,24000,12.0,23988.0,2026,7,July,26,Sunday
+T036,2026-08-02,C027,Ajay Shah,P006,Printer,Electronics,Pune,3,22000,0.08,Credit Card,Completed,66000,52.8,65947.2,2026,8,August,2,Sunday
+T037,2026-08-07,C010,Kiran Jadhav,P007,Keyboard,Accessories,Nashik,20,1500,0.05,Cash,Completed,30000,15.0,29985.0,2026,8,August,7,Friday
+T038,2026-08-13,C011,Meena Joshi,P008,Headphones,Accessories,Mumbai,8,3000,0.1,Upi,Completed,24000,24.0,23976.0,2026,8,August,13,Thursday
+T039,2026-08-18,C012,Sachin More,P009,Mouse,Accessories,Pune,15,1000,0.05,Debit Card,Completed,15000,7.5,14992.5,2026,8,August,18,Tuesday
+T040,2026-08-25,C028,Anjali Deshmukh,P010,Table,Furniture,Nashik,4,7500,0.07,Upi,Completed,30000,21.0,29979.0,2026,8,August,25,Tuesday
+T041,2026-09-01,C001,Rahul Sharma,P001,Laptop,Electronics,Mumbai,2,55000,0.1,Credit Card,Completed,110000,110.0,109890.0,2026,9,September,1,Tuesday
+T042,2026-09-06,C013,Anita Patil,P002,Mobile Phone,Electronics,Pune,4,25000,0.05,Upi,Completed,100000,50.0,99950.0,2026,9,September,6,Sunday
+T043,2026-09-12,C014,Omkar Shinde,P003,Office Chair,Furniture,Nashik,7,7000,0.08,Cash,Completed,49000,39.2,48960.8,2026,9,September,12,Saturday
+T044,2026-09-18,C015,Komal Pawar,P004,Monitor,Electronics,Mumbai,2,18000,0.05,Debit Card,Completed,36000,18.0,35982.0,2026,9,September,18,Friday
+T045,2026-09-23,C016,Raj Malhotra,P005,Desk,Furniture,Pune,3,12000,0.1,Upi,Completed,36000,36.0,35964.0,2026,9,September,23,Wednesday
+T046,2026-09-27,C017,Swati Kale,P006,Printer,Electronics,Nashik,2,22000,0.07,Credit Card,Completed,44000,30.800000000000004,43969.2,2026,9,September,27,Sunday
+T047,2026-09-29,C018,Deepak Shah,P007,Keyboard,Accessories,Mumbai,18,1500,0.05,Cash,Completed,27000,13.5,26986.5,2026,9,September,29,Tuesday
+T048,2026-09-30,C019,Varsha More,P008,Headphones,Accessories,Pune,7,3000,0.1,Upi,Completed,21000,21.0,20979.0,2026,9,September,30,Wednesday
+T049,2026-09-30,C020,Manish Pawar,P009,Mouse,Accessories,Nashik,20,1000,0.05,Debit Card,Completed,20000,10.0,19990.0,2026,9,September,30,Wednesday
+T050,2026-09-30,C021,Shubham Patil,P010,Table,Furniture,Mumbai,5,7500,0.08,Upi,Completed,37500,30.0,37470.0,2026,9,September,30,Wednesday

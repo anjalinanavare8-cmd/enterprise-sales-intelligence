@@ -1,0 +1,61 @@
+
+============================================================
+       ENTERPRISE SALES MANAGEMENT REPORT
+============================================================
+
+Generated On: 2026-09-18 16:08:27
+
+------------------------------------------------------------
+EXECUTIVE SUMMARY
+------------------------------------------------------------
+
+Total Sales          : ₹1,976,458.25
+Total Orders         : 50
+Total Quantity Sold  : 272
+Total Discount       : ₹1,541.75
+Average Order Value  : ₹39,529.17
+
+Completed Orders     : 49
+Cancelled Orders     : 1
+Cancellation Rate    : 2.00%
+
+------------------------------------------------------------
+KEY FINDINGS
+------------------------------------------------------------
+
+1. Top Performing Product
+   Product: Laptop
+   Revenue: ₹439,543.50
+
+2. Top Performing Branch
+   Branch: Pune
+   Revenue: ₹761,444.65
+
+3. Most Used Payment Method
+   Payment Method: Upi
+
+4. Discount Performance
+   Total Discount Given: ₹1,541.75
+
+------------------------------------------------------------
+RECOMMENDATIONS
+------------------------------------------------------------
+
+1. Monitor the performance of the highest-revenue products
+   and maintain sufficient stock.
+
+2. Analyze the sales practices of high-performing branches
+   and identify useful practices that can be applied elsewhere.
+
+3. Monitor payment-method usage to improve customer
+   payment convenience.
+
+4. Review cancelled transactions regularly and identify
+   possible reasons for cancellations.
+
+5. Monitor discount usage to ensure that discounts support
+   sales without unnecessarily reducing revenue.
+
+------------------------------------------------------------
+REPORT END
+------------------------------------------------------------
