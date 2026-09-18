@@ -1,96 +1,111 @@
-**# Enterprise Sales Data Processing \& Business Intelligence System**
+# Enterprise Sales Data Processing & Business Intelligence System
 
+## About the Project
 
+This project is developed using Python to process, clean, and analyze sales data.
 
-**## About the Project**
+It performs data quality checks, calculates sales values, analyzes sales by branch, category, product, and payment method, and creates visualizations for better understanding of the sales data.
 
+## Technologies Used
 
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Jupyter Notebook
+* SQLite
+* VS Code
 
-**This project is developed using Python to process and analyze sales data.**
+## Main Features
 
+* Load sales data from CSV
+* Check data quality
+* Clean and process sales data
+* Calculate sales amount and net sales
+* Analyze sales by branch
+* Analyze sales by category
+* Analyze sales by product
+* Analyze payment methods
+* Analyze order status
+* Create sales charts and visualizations
+* Store project data in SQLite database
 
+## Project Structure
 
-**It cleans the data, checks data quality, performs sales analysis, stores data in a database, creates charts, detects anomalies, and generates reports.**
+```text
+enterprise-sales-intelligence/
+│
+├── data/
+├── logs/
+├── reports/
+├── src/
+├── visualizations/
+├── notebooks/
+├── main.py
+├── sales.db
+├── requirements.txt
+└── README.md
+```
 
+## Data Analysis
 
+The project includes analysis of:
 
-**## Technologies Used**
+* Total sales
+* Total quantity
+* Branch-wise sales
+* Category-wise sales
+* Product-wise sales
+* Payment-method sales
+* Order status
+* Data quality
 
+## Visualizations
 
+The project generates charts for:
 
-**- Python**
+* Sales by Branch
+* Sales by Category
+* Sales by Payment Method
+* Product-wise Sales
+* Order Status
 
-**- Pandas**
+## How to Run
 
-**- NumPy**
+### 1. Install the required libraries
 
-**- Matplotlib**
+```bash
+pip install -r requirements.txt
+```
 
-**- Seaborn**
+### 2. Run the Python program
 
-**- SQLite**
+```bash
+python main.py
+```
 
-**- Jupyter Notebook**
+### 3. Open the Jupyter Notebook
 
-**- VS Code**
+Open:
 
+```text
+notebooks/sales_data_analysis.ipynb
+```
 
+and run the cells to view the analysis and visualizations.
 
-**## Main Features**
+## Project Output
 
+The project generates:
 
+* Processed sales data
+* Sales analysis
+* Data quality results
+* Sales visualizations
+* SQLite database
 
-**- Load sales data from CSV**
+## Author
 
-**- Check data quality**
+**Anjali Nanaware**
 
-**- Remove invalid and duplicate records**
-
-**- Clean and transform data**
-
-**- Calculate sales and revenue**
-
-**- Analyze products and branches**
-
-**- Analyze customers and payment methods**
-
-**- Detect anomalies**
-
-**- Store data in SQLite database**
-
-**- Generate charts**
-
-**- Generate reports**
-
-
-
-**## Project Structure**
-
-
-
-**```text**
-
-**enterprise-sales-intelligence/**
-
-**│**
-
-**├── data/**
-
-**├── logs/**
-
-**├── reports/**
-
-**├── src/**
-
-**├── visualizations/**
-
-**├── notebooks/**
-
-**├── config/**
-
-**├── main.py**
-
-**├── sales.db**
-
-**└── README.md**
-
+Python Developer Intern
