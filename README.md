@@ -2,9 +2,9 @@
 
 ## About the Project
 
-This project is developed using Python to process, clean, and analyze sales data.
+This project is developed using Python to process, clean, analyze, and store enterprise sales data.
 
-It performs data quality checks, calculates sales values, analyzes sales by branch, category, product, and payment method, and creates visualizations for better understanding of the sales data.
+The system performs data quality checks, sales calculations, customer analysis, branch analysis, payment analysis, anomaly detection, time-based analysis, SQL analysis, and generates charts and management reports.
 
 ## Technologies Used
 
@@ -12,23 +12,74 @@ It performs data quality checks, calculates sales values, analyzes sales by bran
 * Pandas
 * NumPy
 * Matplotlib
-* Jupyter Notebook
+* Seaborn
 * SQLite
+* Jupyter Notebook
 * VS Code
+* Git & GitHub
 
 ## Main Features
 
 * Load sales data from CSV
 * Check data quality
+* Detect duplicate and invalid records
 * Clean and process sales data
-* Calculate sales amount and net sales
-* Analyze sales by branch
-* Analyze sales by category
-* Analyze sales by product
+* Calculate sales, discounts, and net sales
+* Analyze products and quantities
+* Analyze branch performance
+* Analyze customer performance
+* Perform customer segmentation
 * Analyze payment methods
-* Analyze order status
-* Create sales charts and visualizations
-* Store project data in SQLite database
+* Analyze order status and cancellations
+* Detect sales anomalies
+* Perform monthly and weekday sales analysis
+* Store processed data in SQLite database
+* Run SQL queries for sales analysis
+* Generate sales charts
+* Generate management report
+* Save cleaned and processed data
+
+## Data Analysis
+
+The system performs the following analysis:
+
+* Total Sales
+* Total Orders
+* Total Quantity Sold
+* Total Discount
+* Average Order Value
+* Product-wise Sales
+* Product-wise Quantity
+* Branch Performance
+* Cancellation Rate
+* Customer Performance
+* Customer Segmentation
+* Payment Method Performance
+* Monthly Sales
+* Weekday Sales
+* Discount Analysis
+* Anomaly Detection
+
+## Visualizations
+
+The project generates charts for:
+
+* Monthly Sales
+* Branch Sales
+* Top Products
+* Payment Methods
+* Category Sales
+* Cancellation Rate
+* Discount vs Sales
+
+## Database
+
+The project uses SQLite to store processed sales data.
+
+It also performs SQL queries for:
+
+* Branch-wise Sales
+* Top Products by Revenue
 
 ## Project Structure
 
@@ -36,49 +87,30 @@ It performs data quality checks, calculates sales values, analyzes sales by bran
 enterprise-sales-intelligence/
 │
 ├── data/
+│   ├── raw/
+│   └── processed/
+│
 ├── logs/
 ├── reports/
 ├── src/
 ├── visualizations/
 ├── notebooks/
+├── config/
 ├── main.py
 ├── sales.db
 ├── requirements.txt
 └── README.md
 ```
 
-## Data Analysis
-
-The project includes analysis of:
-
-* Total sales
-* Total quantity
-* Branch-wise sales
-* Category-wise sales
-* Product-wise sales
-* Payment-method sales
-* Order status
-* Data quality
-
-## Visualizations
-
-The project generates charts for:
-
-* Sales by Branch
-* Sales by Category
-* Sales by Payment Method
-* Product-wise Sales
-* Order Status
-
 ## How to Run
 
-### 1. Install the required libraries
+### 1. Install required libraries
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### 2. Run the Python program
+### 2. Run the project
 
 ```bash
 python main.py
@@ -86,23 +118,19 @@ python main.py
 
 ### 3. Open the Jupyter Notebook
 
-Open:
-
-```text
-notebooks/sales_data_analysis.ipynb
-```
-
-and run the cells to view the analysis and visualizations.
+Open the notebook inside the `notebooks/` folder to view the detailed analysis and visualizations.
 
 ## Project Output
 
-The project generates:
+The system generates:
 
-* Processed sales data
-* Sales analysis
-* Data quality results
-* Sales visualizations
+* Cleaned sales data
+* Data quality report
 * SQLite database
+* Sales visualizations
+* Anomaly report
+* Management report
+* Sales analysis results
 
 ## Author
 
